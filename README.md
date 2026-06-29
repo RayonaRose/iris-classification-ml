@@ -17,7 +17,7 @@ Evaluation: Validated the model using accuracy scores and a classification repor
 This pairplot was generated during my data analysis phase. It clearly shows how the Iris-setosa species clusters separately from the others, which is why the model achieves such high accuracy.
 
 🚀 Key Takeaways
-Model Accuracy: [INSERT YOUR ACCURACY SCORE]%
+Model Accuracy: 96.67%
 
 Learning Outcome: This project solidified my understanding of how classification models "learn" boundaries between different groups of data.
 
